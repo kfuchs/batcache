@@ -1,3 +1,6 @@
+Forked version of the original batcache by automattic.
+
+
 === Batcache ===
 Contributors: automattic, andy, orensol, markjaquith, vnsavage, batmoo, yoavf
 Tags: cache, memcache, memcached, speed, performance, load, server
